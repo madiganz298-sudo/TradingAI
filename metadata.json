@@ -1,0 +1,6 @@
+{
+  "name": "TradeAI Pro",
+  "description": "Premium stocks, forex, and crypto trading analysis app with smart API rotation, technical indicators, are local caching, and AI Chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
